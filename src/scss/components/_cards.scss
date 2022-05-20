@@ -1,0 +1,13 @@
+.card {
+    background: rgba($secondary-color, .75);
+    border-radius: 1em;
+    padding: 2.5em;
+
+    .card-title {
+        color: $primary-color;
+    }
+
+    .card-content {
+        color: $text-light;
+    }
+}
